@@ -1,0 +1,6 @@
+export const ADD_STUDENT = "ADD_STUDENT";
+export const DELETE_STUDENT = "DELETE_STUDENT";
+
+export const GET_USERS = "GET_USERS";
+export const GET_USERS_SUCCESS = "GET_USERS_SUCCESS";
+export const GET_USERS_FAILED = "GET_USERS_FAILED";
